@@ -1,4 +1,4 @@
-import { registerSettings } from "./settings";
+import { registerSettings } from "./settings.js";
 
 Hooks.once("init", async function () {
   console.log(
