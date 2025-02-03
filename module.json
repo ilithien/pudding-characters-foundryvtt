@@ -8,12 +8,12 @@
     }
   ],
   "url": "https://github.com/ilithien/pudding-characters-foundryvtt",
-  "download": "https://github.com/ilithien/pudding-characters-foundryvtt/archive/refs/tags/0.1.1.zip",
+  "download": "https://github.com/ilithien/pudding-characters-foundryvtt/archive/refs/tags/0.1.2.zip",
   "manifest": "https://github.com/ilithien/pudding-characters-foundryvtt/releases/latest/download/module.json",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "compatibility": {
     "minimum": 11,
     "verified": 12
   },
-  "scripts": ["scripts/events.js"]
+  "esmodules": ["scripts/events.js"]
 }
