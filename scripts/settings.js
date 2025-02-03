@@ -1,4 +1,4 @@
-import { MODULE_NAME } from "./constants";
+import { MODULE_NAME } from "./constants.js";
 
 export function registerSettings() {
   game.settings.register(MODULE_NAME, "clientId", {
