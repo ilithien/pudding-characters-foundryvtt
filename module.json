@@ -1,0 +1,16 @@
+{
+  "id": "pudding-characters-foundryvtt",
+  "title": "Pudding Characters FoundryVTT",
+  "description": "Actor Synchronizer module to synch actors for the Twitch extension",
+  "authors": [
+    {
+      "name": "IlithieN"
+    }
+  ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 12
+  },
+  "scripts": ["scripts/events.js"]
+}

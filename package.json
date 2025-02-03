@@ -1,0 +1,11 @@
+{
+  "name": "pudding-characters-foundryvtt-module",
+  "version": "1.0.0",
+  "description": "Pudding Characters FoundryVTT module for synchronizing characters for Twitch Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilithien",
+  "license": "ISC"
+}
