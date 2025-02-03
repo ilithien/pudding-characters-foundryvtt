@@ -7,6 +7,9 @@
       "name": "IlithieN"
     }
   ],
+  "url": "https://github.com/ilithien/pudding-characters-foundryvtt",
+  "download": "https://github.com/ilithien/pudding-characters-foundryvtt/archive/refs/tags/0.1.0.zip",
+  "manifest": "https://github.com/ilithien/pudding-characters-foundryvtt/releases/latest/download/module.json",
   "version": "0.1.0",
   "compatibility": {
     "minimum": 11,
